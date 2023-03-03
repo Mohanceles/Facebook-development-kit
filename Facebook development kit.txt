@@ -1,0 +1,10 @@
+1. UI features.
+2. login credentials.
+3. like the post.
+4. text the comments.
+5. fb main setting program.
+6. privacy setting program.
+7. bio setting program.
+8. friends list program.
+9. mutual friends list program.
+10.story settings program.
